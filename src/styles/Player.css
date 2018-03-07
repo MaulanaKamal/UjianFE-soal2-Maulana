@@ -1,0 +1,21 @@
+
+body {
+    background: url(https://www.foottheball.com/wp-content/uploads/2017/01/messi-7.jpg);
+}
+
+.input-group {
+    margin: 30px 20px 0px 0px;
+}
+
+.panel-body img {
+    width: 500px;
+    height: 600px;
+}
+
+.panel-body p {
+    text-align: justify;
+    text-indent: 4px;
+    padding-top: 20px;
+}
+
+
